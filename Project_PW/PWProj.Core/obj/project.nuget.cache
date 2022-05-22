@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xfcVp/QwVpKgG6fD0ibWAkw7TRDz3afrA0gzZk7x025KHQ0IAF3tIxf6RbrJodehJaYT9nc5jPLQIUmgOCtJsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\teodo\\source\\repos\\Project_PW\\PWProj.Core\\PWProj.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\teodo\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

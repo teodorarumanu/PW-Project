@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 64 64" version="1.1">
+  <defs id="defs4">
+    <linearGradient id="linearGradient3037">
+      <stop id="stop3039" stop-color="#800000" offset="0"/>
+      <stop id="stop3045" stop-color="#f00" offset=".35205"/>
+      <stop id="stop3047" stop-color="#f55" offset=".46798"/>
+      <stop id="stop3041" stop-color="#faa" offset="1"/>
+    </linearGradient>
+    <filter id="filter3881" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur3883" stdDeviation="0.4609375"/>
+    </filter>
+    <linearGradient id="linearGradient3915" y2="83.862" gradientUnits="userSpaceOnUse" x2="40.25" gradientTransform="matrix(.49448 0 0 .49448 .040973 989.49)" y1="-2.3878" x1="42">
+      <stop id="stop3078" stop-color="#fff" offset="0"/>
+      <stop id="stop3080" stop-color="#fff" stop-opacity="0" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3918" y2="527.73" gradientUnits="userSpaceOnUse" x2="162.63" gradientTransform="matrix(.35828 0 0 .35828 -21.029 833.27)" y1="451.88" x1="162.63">
+      <stop id="stop3027" stop-color="#fff" offset="0"/>
+      <stop id="stop3029" stop-color="#fff" stop-opacity="0" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3921" y2="435.82" gradientUnits="userSpaceOnUse" x2="145.46" gradientTransform="matrix(.35828 0 0 .35828 -21.029 833.27)" y1="584.16" x1="147.99">
+      <stop id="stop3035" stop-color="#800000" offset="0"/>
+      <stop id="stop3037" stop-color="#f00" offset=".35205"/>
+      <stop id="stop3040" stop-color="#ff2a2a" offset=".46798"/>
+      <stop id="stop3042" stop-color="#f55" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3924" y2="451.18" xlink:href="#linearGradient3037" gradientUnits="userSpaceOnUse" x2="85.272" gradientTransform="matrix(.35828 0 0 .35828 -21.029 833.27)" y1="551.69" x1="187.69"/>
+    <linearGradient id="linearGradient3927" y2="448.27" xlink:href="#linearGradient3037" gradientUnits="userSpaceOnUse" x2="144.05" gradientTransform="matrix(.35828 0 0 .35828 -21.029 833.27)" y1="598.91" x1="222.1"/>
+    <linearGradient id="linearGradient3936" y2="991.46" gradientUnits="userSpaceOnUse" x2="37.513" y1="1065.2" x1="39.455">
+      <stop id="stop3932" stop-color="#800000" offset="0"/>
+      <stop id="stop3934" stop-color="#800000" stop-opacity="0" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1" fill-rule="evenodd" transform="translate(0 -988.36)">
+    <path id="path3086" opacity=".6861" style="block-progression:tb;color:#000000;text-transform:none;text-indent:0" d="m8.8438 2.5938c-3.5626 0-6.4688 2.9075-6.4688 6.4688 0 0.19706 0.01177 0.40779 0.03125 0.59375 0.16275 1.5425 0.95023 2.7373 1.8125 3.9375 0.00328 0.0049 0.027928-0.0049 0.03125 0 0.13673 0.20111 0.29945 0.4072 0.59375 0.75 0.30145 0.35114 0.69688 0.79423 1.1562 1.3125 0.91873 1.0365 2.0963 2.3482 3.25 3.625 2.3074 2.5536 4.5312 5 4.5312 5l0.53125 0.59375h0.03125l0.5625-0.59375 9.344-10.437 0.062-0.032 0.032-0.062c0.705-1.0919 1.6273-2.3162 1.8125-3.9375 0.02078-0.18317 0.03125-0.36928 0.03125-0.5625 0-1.1095-0.28798-2.1782-0.78125-3.0938-0.0043-0.00782 0.0043-0.023447 0-0.03125-1.1028-2.0266-3.2568-3.4062-5.7188-3.4062-1.679 0-3.1947 0.66458-4.3438 1.7188-0.192 0.1753-0.362 0.3651-0.532 0.5622-0.169 0.1971-0.354 0.4087-0.5 0.625-1.147-1.811-3.173-3.0312-5.4682-3.0312z" transform="matrix(2.4022 0 0 2.4022 -1.5318 988.19)" filter="url(#filter3881)"/>
+    <path id="path3047" d="m32.585 1000.2v46.236l0.04958 0.054 1.3236-1.4673 22.491-25.034 0.09914-0.114 0.0694-0.1091c1.8866-2.9218 4.4763-6.2936 4.4763-10.871 0-8.6025-7.0126-15.62-15.615-15.62-5.3779 0-10.089 2.7678-12.894 6.9252z" style="block-progression:tb;color:#000000;text-transform:none;text-indent:0" fill="url(#linearGradient3927)"/>
+    <path id="path3006" d="m19.389 992.95c-8.5581 0-15.516 6.9858-15.516 15.541 0 4.4031 2.1344 7.5844 4.4565 10.817 0.00788 0.012 0.021764 0.033 0.029744 0.045 0.32846 0.4831 0.75045 0.9562 1.4574 1.7796 0.72416 0.8435 1.6725 1.9227 2.776 3.1677 2.207 2.49 5.0212 5.6227 7.7927 8.6899 5.5429 6.1344 10.916 12.021 10.916 12.021l1.2839 1.4029v-46.236c-0.0197 0.029-0.04485 0.055-0.06445 0.084-2.7513-4.3791-7.5964-7.3119-13.132-7.3119z" style="block-progression:tb;color:#000000;text-transform:none;text-indent:0" fill="url(#linearGradient3924)"/>
+    <path id="path3049" style="block-progression:tb;color:#000000;text-transform:none;text-indent:0" d="m19.39 996.54c5.3252 0 9.821 3.4774 11.375 8.2628l1.6234 5.0047 1.769-4.9599c1.657-4.6582 6.0761-8.0053 11.319-8.0053 6.6633 0 12.036 5.3726 12.036 12.036 0 3.1407-1.8585 5.7801-3.8067 8.789l-21.094 23.467c-1.0843-1.1881-4.7143-5.1588-9.5727-10.536-2.7674-3.0626-5.5773-6.1918-7.7702-8.6658-1.0964-1.237-2.0406-2.3055-2.7431-3.1238-0.70244-0.8182-1.2245-1.4952-1.2204-1.489l-0.02234-0.022-0.0113-0.034c-2.2961-3.1941-3.8179-5.4799-3.8179-8.7667 0-6.6217 5.3165-11.958 11.935-11.958z" stroke="url(#linearGradient3936)" stroke-width=".5" fill="url(#linearGradient3921)"/>
+    <path id="path3018" opacity=".5" d="m19.39 996.54c-6.6186 0-11.935 5.3358-11.935 11.958 0 3.2867 1.5218 5.5725 3.8179 8.7666l0.0113 0.034 0.02234 0.022c-0.0041-0.01 0.51794 0.6709 1.2204 1.4891 0.70244 0.8182 1.6467 1.8867 2.7431 3.1237 0.13412 0.1513 0.30927 0.3478 0.44785 0.5038 8.0992-6.0957 19.688-9.9086 32.559-9.9086 2.7964 0 5.5316 0.1817 8.1844 0.5262 0.63513-1.3423 1.0524-2.7032 1.0524-4.1761 0-6.6634-5.3726-12.036-12.036-12.036-5.2433 0-9.6623 3.3472-11.319 8.0052l-1.769 4.9599-1.6234-5.0047c-1.5544-4.7853-6.0502-8.2627-11.375-8.2627z" style="block-progression:tb;color:#000000;text-transform:none;text-indent:0" fill="url(#linearGradient3918)"/>
+    <path id="path3071" opacity=".42" d="m19.388 992.95c-8.5581 0-15.514 6.9903-15.514 15.545 0 0.4734 0.030467 0.9285 0.077263 1.3753 0.79558-7.8171 7.4139-13.954 15.437-13.954 5.5352 0 10.383 2.93 13.135 7.3091 0.0197-0.029 0.04203-0.048 0.06181-0.077 2.8049-4.1574 7.5095-6.9227 12.887-6.9227 8.0597 0 14.736 6.1631 15.545 14.015 0.04992-0.44 0.07726-0.8956 0.07726-1.3598 0-8.6025-7.02-15.623-15.623-15.623-5.3779 0-10.083 2.7654-12.887 6.9227-0.0197 0.029-0.04224 0.048-0.06181 0.077-2.7513-4.3791-7.5994-7.3091-13.135-7.3091z" style="block-progression:tb;color:#000000;text-transform:none;text-indent:0" fill="url(#linearGradient3915)"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Heart icon</dc:title>
+        <dc:date>2010-10-19T22:54:55</dc:date>
+        <dc:description>Heart icon</dc:description>
+        <dc:source>http://openclipart.org/detail/91609/heart-icon-by-jhnri4</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>jhnri4</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>favorite</rdf:li>
+            <rdf:li>heart</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>love</rdf:li>
+            <rdf:li>png</rdf:li>
+            <rdf:li>red</rdf:li>
+            <rdf:li>shape</rdf:li>
+            <rdf:li>svg</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

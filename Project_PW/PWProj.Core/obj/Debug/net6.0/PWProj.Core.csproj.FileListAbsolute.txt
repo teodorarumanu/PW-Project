@@ -1,0 +1,13 @@
+C:\Users\teodo\source\repos\Project_PW\PWProj.Core\obj\Debug\net6.0\PWProj.Core.csproj.AssemblyReference.cache
+C:\Users\teodo\source\repos\Project_PW\PWProj.Core\obj\Debug\net6.0\PWProj.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\source\repos\Project_PW\PWProj.Core\obj\Debug\net6.0\PWProj.Core.AssemblyInfoInputs.cache
+C:\Users\teodo\source\repos\Project_PW\PWProj.Core\obj\Debug\net6.0\PWProj.Core.AssemblyInfo.cs
+C:\Users\teodo\source\repos\Project_PW\PWProj.Core\obj\Debug\net6.0\PWProj.Core.csproj.CoreCompileInputs.cache
+C:\Users\teodo\source\repos\Project_PW\PWProj.Core\bin\Debug\net6.0\PWProj.Core.dll.config
+C:\Users\teodo\source\repos\Project_PW\PWProj.Core\bin\Debug\net6.0\PWProj.Core.deps.json
+C:\Users\teodo\source\repos\Project_PW\PWProj.Core\bin\Debug\net6.0\PWProj.Core.dll
+C:\Users\teodo\source\repos\Project_PW\PWProj.Core\bin\Debug\net6.0\PWProj.Core.pdb
+C:\Users\teodo\source\repos\Project_PW\PWProj.Core\obj\Debug\net6.0\PWProj.Core.dll
+C:\Users\teodo\source\repos\Project_PW\PWProj.Core\obj\Debug\net6.0\refint\PWProj.Core.dll
+C:\Users\teodo\source\repos\Project_PW\PWProj.Core\obj\Debug\net6.0\PWProj.Core.pdb
+C:\Users\teodo\source\repos\Project_PW\PWProj.Core\obj\Debug\net6.0\ref\PWProj.Core.dll

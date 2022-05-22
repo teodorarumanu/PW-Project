@@ -1,0 +1,27 @@
+button {
+  margin: 1rem 1rem 0.5rem;
+  font: inherit;
+  font-size: 1.5rem;
+  padding: 0.5em 1.5em;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+title {
+  font-size: 5.2rem;
+  width: 90%;
+  margin: 1rem;
+}
+
+
+.signin {
+  text-align: right;
+  font: inherit;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }

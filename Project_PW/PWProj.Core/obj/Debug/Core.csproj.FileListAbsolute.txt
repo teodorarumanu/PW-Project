@@ -1,0 +1,3 @@
+C:\Users\teodo\source\repos\Project_PW\PWProj.Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\teodo\source\repos\Project_PW\PWProj.Core\obj\Debug\Core.csproj.SuggestedBindingRedirects.cache
+C:\Users\teodo\source\repos\Project_PW\PWProj.Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
